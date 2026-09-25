@@ -1,12 +1,20 @@
 # Mubashir Asif — Engineering Portfolio
 
-GitHub Pages portfolio for Mubashir Asif.
+Premium GitHub Pages portfolio for Mubashir Asif, Mechanical Engineer / Project Manager.
 
-## Files
-- `index.html` — website structure and content
-- `style.css` — premium dark/purple visual design
-- `script.js` — smooth navigation and reveal effects
+## Included
+- Animated hero section with professional portrait
+- Experience: Invotyx, Dar Petroleum Operating Company, Softoo
+- Project exposure: ALENI & NOAH, EZRA, NELSCO, GPOC, RBI/CMMS and Asset Data
+- Velosi asset integrity webinar credentials
+- Autodesk, NVIDIA, Garrett and CPD credentials
+- Research/presentation certificates
+- Downloadable CV
+- Responsive mobile layout
+- Scroll reveal, orbit, hover and cursor effects
 
-## Publish
-Repository name should be `mubashir1082-wq.github.io`.
-In GitHub: **Settings → Pages → Deploy from a branch → main → / (root) → Save**.
+## GitHub Pages
+Repository name:
+`mubashir1082-wq.github.io`
+
+In GitHub: **Settings → Pages → Deploy from a branch → main → /(root) → Save**.
